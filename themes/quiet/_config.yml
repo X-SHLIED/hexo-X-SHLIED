@@ -1,13 +1,13 @@
 # 网站标题
-title: Hexo主题-Quiet主题-Hexo扁平化主题安装
+title: X-SHLIED的资源小站
 # 网站标题后缀
-suffix: Quiet
+suffix: 一个分享各种资源的网站
 # 作者名称(会显示在首页文章下面)
-author: CHANGEQ
+author: X-SHLIED
 # 首页简介（显示在首页顶部Logo的那句话）
-home_describe: A COLLEGE STUDENT WITH IDEALS AND BELIEFS.
+home_describe: 昔我往矣，杨柳依依，今我来思，雨雪霏霏
 # 网站关键字
-keyword: hexo主题,hexo扁平化主题,Quiet主题
+keyword: 资源分享,线报
 is_article_img: false  #false是否开启文章背景图显示(随机图片)
 # 网站描述
 web_description: 描述
@@ -55,7 +55,7 @@ bottomIcon:
     #图标    
     iconLink: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imggithub.png',
     #跳转链接    
-    toUrl: 'https://github.com/qiaobug'
+    toUrl: 'https://github.com/X-SHLIED'
   }
 # 友情链接
 linksList:
@@ -74,4 +74,18 @@ picture:
   # 图片角度 就是显示图片的角度
   imgRadius: "10px"
 #默认的cover (默认缩略图) 在没有填写（这里可以替换（可以是api也可以是固定的图））
-default_cover: https://api.ixiaowai.cn/gqapi/gqapi.php
+default_cover: https://api.dujin.org/bing/1920.php
+# 代码高亮
+highlight:
+  enable: true
+  line_number: false
+  auto_detect: true
+  tab_replace: ''
+  wrap: true
+  hljs: true
+prismjs:
+  enable: false
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+  
