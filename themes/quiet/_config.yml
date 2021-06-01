@@ -5,7 +5,7 @@ suffix: 一个分享各种资源的网站
 # 作者名称(会显示在首页文章下面)
 author: X-SHLIED
 # 首页简介（显示在首页顶部Logo的那句话）
-home_describe: 昔我往矣，杨柳依依，今我来思，雨雪霏霏
+home_describe: 昔我往矣 杨柳依依 今我来思 雨雪霏霏
 # 网站关键字
 keyword: 资源分享,线报
 is_article_img: false  #false是否开启文章背景图显示(随机图片)
