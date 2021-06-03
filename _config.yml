@@ -39,19 +39,19 @@ external_link:
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
-render_drafts: true
-post_asset_folder: true
-relative_link: true
+render_drafts: false
+post_asset_folder: false
+relative_link: false
 future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: true
+  auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: true
+  hljs: false
 prismjs:
-  enable: true
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
